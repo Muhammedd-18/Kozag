@@ -1,5 +1,3 @@
-GitHub depon için kopyalayıp doğrudan README.md dosyasına yapıştırabileceğin, projenin teknik mimarisini, otomasyon algoritmalarını ve yapay zeka vizyonunu öne çıkaran profesyonel Türkçe metni aşağıda hazırladım:
-
 Kozağ: Hastane Entegreli Gebe Takip Otomasyon Sistemi
 Kozağ, standart ve izole gebe takip uygulamalarından farklı olarak, doğrudan bir Hastane Bilgi Yönetim Sistemi (HBYS) entegrasyonu vizyonuyla kurgulanmış bir mobil otomasyon projesidir. Sistem, veri doğruluğunu ve klinik güvenliği merkeze alarak geliştirilmiş, güçlü bir yerel veritabanı ve otomasyon mimarisi üzerine inşa edilmiştir.
 
